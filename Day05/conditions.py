@@ -3,19 +3,13 @@
 
 
 # 1. IF CONDITION
-
 age = 20
-
 if age >= 18:
     print("You are eligible to vote.")
 
 
-
 # 2. IF - ELSE
-
-
 age = 16
-
 if age >= 18:
     print("You are an adult.")
 else:
@@ -23,9 +17,7 @@ else:
 
 
 # 3. IF - ELIF - ELSE
-
 marks = 75
-
 if marks >= 90:
     print("Grade: A")
 elif marks >= 75:
@@ -39,9 +31,7 @@ else:
 
 
 # 4. COMPARISON
-
 number = 10
-
 if number > 0:
     print("Number is positive.")
 elif number < 0:
@@ -53,7 +43,6 @@ else:
 # 5. LOGICAL OPERATORS
 age = 21
 has_id = True
-
 if age >= 18 and has_id:
     print("Entry allowed.")
 else:
