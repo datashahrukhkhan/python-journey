@@ -21,7 +21,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 - [x] Day 04 - Operators
 - [x] Day 05 - Conditions
 - [x] Day 06 - Loops
-- [ ] Day 07 - Strings
+- [x] Day 07 - Strings
 - [ ] Day 08 - Lists
 - [ ] Day 09 - Tuples
 - [ ] Day 10 - Sets
