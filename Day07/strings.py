@@ -109,7 +109,7 @@ print(skill.endswith("on"))
 print("\nMembership")
 
 print("Python" in "I am learning Python")
-print("Java" in "I am learning Python")
+print("Java" in "I am learning Java")
 
 
 # 11. STRING CONCATENATION
