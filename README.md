@@ -23,7 +23,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 - [x] Day 06 - Loops
 - [x] Day 07 - Strings
 - [x] Day 08 - Lists
-- [ ] Day 09 - Tuples
+- [x] Day 09 - Tuples
 - [ ] Day 10 - Sets
 - [ ] Day 11 - Dictionaries
 - [ ] Day 12 - Functions
