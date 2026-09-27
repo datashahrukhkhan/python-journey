@@ -28,7 +28,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 07 - Strings
 * [x] Day 08 - Functions
 * [x] Day 09 - Scope
-* [ ] Day 10 - Lists
+* [x] Day 10 - Lists
 * [ ] Day 11 - Tuples
 * [ ] Day 12 - Sets
 * [ ] Day 13 - Dictionaries
