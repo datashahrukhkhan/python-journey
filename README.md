@@ -30,7 +30,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 09 - Scope
 * [x] Day 10 - Lists
 * [x] Day 11 - Tuples
-* [ ] Day 12 - Sets
+* [x] Day 12 - Sets
 * [ ] Day 13 - Dictionaries
 * [ ] Day 14 - Function Arguments
 * [ ] Day 15 - Revision & Practice
