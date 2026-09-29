@@ -8,7 +8,7 @@ print(numbers[0])
 
 # Mistake 2 — Assuming order
 
-print(my_set)
+# print(my_set)
 
 # printing values in the order you inserted them.
 # Sets are designed around membership and uniqueness, not position.
