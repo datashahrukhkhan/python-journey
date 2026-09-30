@@ -31,7 +31,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 10 - Lists
 * [x] Day 11 - Tuples
 * [x] Day 12 - Sets
-* [ ] Day 13 - Dictionaries
+* [x] Day 13 - Dictionaries
 * [ ] Day 14 - Function Arguments
 * [ ] Day 15 - Revision & Practice
 
