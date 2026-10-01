@@ -32,7 +32,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 11 - Tuples
 * [x] Day 12 - Sets
 * [x] Day 13 - Dictionaries
-* [ ] Day 14 - Function Arguments
+* [x] Day 14 - Function Arguments
 * [ ] Day 15 - Revision & Practice
 
 ### Intermediate Python
