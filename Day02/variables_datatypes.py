@@ -17,7 +17,7 @@ print("Student:", is_student)
 
 print("\nData Types:")
 
-print(type(name))
+print(type(name)) 
 print(type(age))
 print(type(height))
 print(type(is_student))
