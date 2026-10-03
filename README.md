@@ -37,7 +37,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 
 ### Intermediate Python
 
-* [ ] Day 16 - Modules
+* [x] Day 16 - Modules
 * [ ] Day 17 - Packages
 * [ ] Day 18 - File Handling
 * [ ] Day 19 - Exception Handling
