@@ -40,7 +40,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 16 - Modules
 * [x] Day 17 - Packages
 * [x] Day 18 - File Handling
-* [ ] Day 19 - Exception Handling
+* [x] Day 19 - Exception Handling
 * [ ] Day 20 - Comprehensions
 * [ ] Day 21 - Lambda Functions
 * [ ] Day 22 - map(), filter() and reduce()
