@@ -42,7 +42,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 18 - File Handling
 * [x] Day 19 - Exception Handling
 * [x] Day 20 - Comprehensions
-* [ ] Day 21 - Lambda Functions
+* [x] Day 21 - Lambda Functions
 * [ ] Day 22 - map(), filter() and reduce()
 * [ ] Day 23 - Iterators and Generators
 * [ ] Day 24 - Decorators
