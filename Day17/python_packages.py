@@ -77,6 +77,30 @@ from importlib.resources import Package
 
 
 
+# PyPI kya hai?
+# PyPI = Python Package Index
+# Ye Python packages ka huge online repository hai.
+
+
+# pip kya hai?
+# pip Python packages install/manage karne ka commonly used tool hai.
+
+
+
+# 🧠 Memory Trick
+# PyPI = Package Store
+# pip  = Package Installer/Manager
+
+
+
+
+
+
+
+
+
+
+
 
 
 
