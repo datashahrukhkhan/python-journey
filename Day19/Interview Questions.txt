@@ -1,0 +1,95 @@
+Q1. What is exception handling?
+Answer:
+Exception handling is a mechanism used to handle runtime errors without crashing the program.
+
+Q2. What is try?
+Answer:
+try contains the code that may raise an exception.
+
+Q3. What is except?
+Answer:
+except handles an exception raised inside the try block.
+
+Q4. What is finally?
+Answer:
+finally contains code that executes whether an exception occurs or not.
+
+Q5. What is else in exception handling?
+Answer:
+else executes when the try block completes without an exception.
+
+Q6. What is raise?
+Answer:
+raise is used to manually raise an exception.
+
+Q7. What is the difference between ValueError and TypeError?
+Answer:
+ValueError occurs when a value has an inappropriate value, while TypeError occurs when an operation is performed on an inappropriate data type.
+
+Q8. What is ZeroDivisionError?
+Answer:
+It occurs when a number is divided by zero.
+
+Q9. Why should we avoid a bare except?
+Answer:
+A bare except catches almost every exception and can hide unexpected programming errors. Specific exceptions are usually better.
+
+Q10. What is a custom exception?
+Answer:
+A custom exception is a user-defined exception created by inheriting from the Exception class.
+
+
+🔥 80/20 Revision
+Ye sequence yaad kar lo:
+try
+ ↓
+Code execute
+ ↓
+ ┌───────────────┐
+ │               │
+Error          No Error
+ │               │
+ ↓               ↓
+except          else
+ │               │
+ └───────┬───────┘
+         ↓
+      finally
+
+
+
+Most important syntax:
+
+try:
+    # risky code
+
+except ValueError:
+    # handle error
+
+else:
+    # successful execution
+
+finally:
+    # cleanup
+
+
+
+
+⚠️ Golden Rule
+Exception handling ka purpose errors ko hide karna nahi hai.
+Bad:
+try:    # 500 lines of codeexcept:    pass
+
+
+Isse error silently disappear ho sakta hai.
+Better:
+try:    age = int(input("Enter age: "))except ValueError:    print("Please enter a valid age.")
+
+
+Specific exception → clear handling → better code.
+
+
+
+
+
+
