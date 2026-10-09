@@ -1,3 +1,4 @@
-Hello Shahrukh
-Welcome to Python
-Day 18 File Handling
+Hello Python
+This is Day 18
+Learning File Handling
+New content added.

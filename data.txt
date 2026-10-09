@@ -1,4 +1,0 @@
-Hello Python
-This is Day 18
-Learning File Handling
-New content added.

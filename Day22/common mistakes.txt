@@ -1,0 +1,29 @@
+Common mistakes
+- map() aur filter() ka result directly print karne par list nahi dikhegi; list() use karo.
+- filter() mein condition deni hoti hai.
+- reduce() use karne se pehle from functools import reduce likho.
+- Empty list ke saath reduce() use karte waqt initial value na ho toh error aa sakta hai.
+- Har jagah lambda zaroori nahi hai; readable code ke liye normal function bhi use kar sakte ho.
+
+
+
+Interview questions
+Q1. What is map() in Python?
+It applies a function to every item in an iterable.
+
+Q2. What is filter()?
+It selects items from an iterable based on a condition.
+
+Q3. What is reduce()?
+It combines items into a single accumulated result using a function.
+
+Q4. Where is reduce() imported from?
+It is imported from the functools module.
+
+Q5. What is the difference between map() and filter()?
+map() transforms items, while filter() selects items that satisfy a condition.
+
+
+
+
+
