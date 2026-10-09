@@ -43,7 +43,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 19 - Exception Handling
 * [x] Day 20 - Comprehensions
 * [x] Day 21 - Lambda Functions
-* [ ] Day 22 - map(), filter() and reduce()
+* [x] Day 22 - map(), filter() and reduce()
 * [ ] Day 23 - Iterators and Generators
 * [ ] Day 24 - Decorators
 * [ ] Day 25 - Object-Oriented Programming
