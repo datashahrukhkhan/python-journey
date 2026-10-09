@@ -1,0 +1,54 @@
+Q1. What is file handling in Python?
+File handling is the process of creating, reading, writing, updating, and managing files using Python.
+
+
+Q2. How do you open a file?
+open("data.txt", "r")
+
+
+Q3. What is the difference between w and a?
+w overwrites existing content, while a adds content at the end of the file.
+
+
+Q4. Why is with open() preferred?
+It automatically closes the file after the operation is completed.
+
+Q5. What does read() do?
+It reads the complete content of a file.
+
+Q6. What does readline() do?
+It reads one line from a file.
+
+Q7. What does readlines() return?
+It returns the lines of a file as a list.
+
+Q8. What is the purpose of encoding="utf-8"?
+It specifies how text should be encoded and decoded when working with the file.
+
+Q9. How do you check whether a file exists?
+import osos.path.exists("data.txt")
+
+
+Q10. How do you delete a file?
+import os
+
+os.remove("data.txt")
+
+
+
+
+Sirf ye yaad rakho:
+open()
+  ↓
+┌─────────────────────┐
+│ r → Read            │
+│ w → Write/Overwrite │
+│ a → Append           │
+│ x → Create           │
+└─────────────────────┘
+
+
+One-line Summary
+File Handling Python ko external files ke saath data read, write, append aur manage karne ki capability deta hai.
+
+
