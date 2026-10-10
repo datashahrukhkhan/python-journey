@@ -1,0 +1,19 @@
+Common mistakes
+- Iterator ki saari values consume karne ke baad usse dobara use karne par values automatically reset nahi hoti.
+- next() ko exhausted iterator par call karne se StopIteration aata hai.
+- yield ko return ke saath confuse mat karo.
+- Generator ek baar consume ho jaaye, toh generally use dobara iterate karne ke liye naya generator create karna hota hai.
+- Har situation mein generator best nahi hota; agar repeatedly indexing chahiye, list zyada suitable ho sakti hai.
+10. Interview questions
+Q1. What is an iterator?
+An iterator is an object that returns values one at a time using next().
+Q2. What is a generator?
+A generator is a function or expression that produces values lazily, one at a time.
+Q3. What is the difference between yield and return?
+return ends the function, while yield pauses the generator and allows it to resume later.
+Q4. What is StopIteration?
+It is an exception that indicates an iterator has no more values.
+Q5. Why are generators memory-efficient?
+They can produce values on demand instead of storing the entire sequence in memory.
+Q6. Can we use a for loop with a generator?
+Yes. A for loop automatically requests the next value until the generator is exhausted.
