@@ -44,7 +44,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 20 - Comprehensions
 * [x] Day 21 - Lambda Functions
 * [x] Day 22 - map(), filter() and reduce()
-* [ ] Day 23 - Iterators and Generators
+* [x] Day 23 - Iterators and Generators
 * [ ] Day 24 - Decorators
 * [ ] Day 25 - Object-Oriented Programming
 
