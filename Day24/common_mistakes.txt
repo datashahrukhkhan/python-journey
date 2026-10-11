@@ -1,0 +1,22 @@
+Common mistakes
+- return wrapper likhna bhool jaana.
+- func() ko call na karna, jis se original function execute nahi hota.
+- Wrapper ke andar return result bhool jaana.
+- Arguments accept karne wale function ke liye wrapper mein *args, **kwargs na dena.
+- @wraps(func) ko samajhna: ye metadata preserve karta hai, decorator ko execute karne ke liye mandatory nahi hai.
+
+Interview questions
+Q1. What is a decorator in Python?
+A decorator is a function that extends or modifies another function's behaviour without changing its original code.
+
+Q2. What does the @ symbol mean?
+It is decorator syntax that applies a decorator to a function or class.
+
+Q3. Why do we use *args and **kwargs in wrappers?
+They allow the wrapper to accept positional and keyword arguments.
+
+Q4. What is functools.wraps?
+It helps preserve the decorated function's metadata, such as its name and docstring.
+
+Q5. Give real-world uses of decorators.
+Logging, timing, authentication, authorization, and caching are common examples.
