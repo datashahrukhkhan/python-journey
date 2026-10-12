@@ -1,0 +1,30 @@
+Common mistakes
+- Class ka naam aur object ka naam confuse karna.
+- Instance method mein self parameter bhool jaana.
+- self.name = name aur sirf name = name ko same samajhna.
+- Object create karte waqt required arguments provide na karna.
+- Har class mein OOP use karna compulsory samajhna — simple tasks ke liye normal functions bhi perfectly fine hain.
+
+
+Interview questions
+Q1. What is OOP?
+OOP is a programming paradigm that organizes programs using classes and objects.
+
+Q2. What is a class?
+A class is a blueprint for creating objects.
+
+Q3. What is an object?
+An object is an instance of a class.
+
+Q4. What is self in Python?
+self refers to the current instance of a class. It is a conventional parameter name.
+
+Q5. What is __init__()?
+It is an initializer method that sets up an object's initial state when the object is created.
+
+Q6. What are the four pillars of OOP?
+Inheritance, polymorphism, encapsulation, and abstraction.
+
+
+One-line summary
+OOP helps organize code around classes and objects, combining related data and behaviour in a reusable structure.
