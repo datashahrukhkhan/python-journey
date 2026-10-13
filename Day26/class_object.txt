@@ -1,0 +1,22 @@
+Common mistakes
+- self ko bhool jaana.
+- self.name = name ki jagah sirf name = name likhna.
+- Instance aur class attributes ko same samajhna.
+- @classmethod mein cls aur instance method mein self ka purpose confuse karna.
+- Object-specific data ko unnecessarily class attribute banana.
+- __init__() ko technically object creation method kehna; actual object creation mein __new__() ka role hota hai.
+
+
+Interview questions
+Q1. What is the difference between a class and an object?
+A class is a blueprint, while an object is an instance of that class.
+Q2. What is self?
+self refers to the current instance of a class.
+Q3. What is __init__()?
+It initializes an object's attributes when an object is created.
+Q4. What is the difference between class and instance attributes?
+Class attributes belong to the class, while instance attributes store object-specific data.
+Q5. What is the difference between instance, class, and static methods?
+- Instance methods receive self.
+- Class methods receive cls.
+- Static methods do not automatically receive self or cls.
