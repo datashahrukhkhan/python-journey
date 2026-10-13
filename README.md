@@ -50,7 +50,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 
 ### Advanced Python & Problem Solving
 
-* [ ] Day 26 - Classes and Objects
+* [x] Day 26 - Classes and Objects
 * [ ] Day 27 - Inheritance and Polymorphism
 * [ ] Day 28 - Encapsulation and Abstraction
 * [ ] Day 29 - Python Practice Problems
