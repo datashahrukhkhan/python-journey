@@ -1,0 +1,30 @@
+Common mistakes
+- Inheritance ko composition samajhna; dono alag design approaches hain.
+- Parent initializer ki zaroorat hone par super().__init__() call bhool jaana.
+- Overriding ko overloading ke saath confuse karna.
+- Multiple inheritance mein method resolution order ko ignore karna.
+- Polymorphism ke liye har class ka same parent hona compulsory samajhna.
+- Sirf code reuse ke liye unnecessary inheritance banana; kabhi-kabhi composition better hoti hai.
+
+
+Interview questions
+Q1. What is inheritance in Python?
+Inheritance allows a class to reuse or extend the attributes and methods of another class.
+
+Q2. What is polymorphism?
+Polymorphism allows a common interface or method to provide different behaviour for different objects.
+
+Q3. What is method overriding?
+Method overriding occurs when a child class provides its own implementation of an inherited method.
+
+Q4. What is the use of super()?
+super() helps access methods from a parent class or the next class in the method resolution order.
+
+Q5. What are the types of inheritance?
+Single, multiple, multilevel, hierarchical and hybrid inheritance.
+
+Q6. Does polymorphism require inheritance in Python?
+No. Python also supports polymorphism through duck typing.
+
+Q7. What is operator overloading?
+Operator overloading lets a class define how operators such as + behave for its objects.
