@@ -54,7 +54,7 @@ I am focusing on building strong Python fundamentals and maintaining consistency
 * [x] Day 27 - Inheritance and Polymorphism
 * [x] Day 28 - Encapsulation and Abstraction
 * [x] Day 29 - Python Practice Problems
-* [ ] Day 30 - Python Mini Project
+* [x] Day 30 - Python Mini Project
 
 > The journey does not end at Day 30.
 > I will continue adding new Python topics, problems, projects, and advanced concepts.
