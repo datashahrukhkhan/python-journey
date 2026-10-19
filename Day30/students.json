@@ -1,0 +1,26 @@
+[
+    {
+        "id": "ST201",
+        "name": "Aayat bano",
+        "marks": {
+            "Python": 67.0,
+            "DBMS": 76.0,
+            "Java": 87.0,
+            "Networking": 56.0,
+            "Cloud Computing": 86.0,
+            "Web Development": 79.0
+        }
+    },
+    {
+        "id": "ST302",
+        "name": "Mohammed Naaj",
+        "marks": {
+            "English": 34.0,
+            "Hindi": 45.0,
+            "Science": 56.0,
+            "Social Science": 67.0,
+            "Maths": 67.0,
+            "Computer Science": 65.0
+        }
+    }
+]
